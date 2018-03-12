@@ -1,4 +1,4 @@
-FILES TRANSPOSITION CIPHER
+HACKING THE AFFINE CIPHER
 ---------------------------------------------------
 _Produced by DevMecha_ Web developer & Python lover
 ----------------------------------------------------
@@ -10,11 +10,10 @@ Find Me Here :
 
 
 _Usage_
-    1. Execute the script 'hack_affine.py' :
+-    1. Execute the script 'hack_affine.py' :
     ```
         python hack_affine.py 
     ```
-    2. Follow the displayed instructions
-    3. Check your outputFile if you chose to write the result in an OutputFile /
+-    2. Follow the displayed instructions
 
 	
